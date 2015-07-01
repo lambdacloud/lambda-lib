@@ -1,0 +1,3 @@
+[submodule "elasticsearch-hadoop"]
+	path = elasticsearch-hadoop
+	url = https://github.com/lambdacloud/elasticsearch-hadoop.git
